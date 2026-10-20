@@ -1,8 +1,8 @@
-\# Đề tài: Tìm hiểu thuật toán Random Forest và xây dựng hệ thống phân loại phân khúc giá nhà Hà Nội
+##### **Đề tài: Tìm hiểu thuật toán Random Forest và xây dựng hệ thống phân loại phân khúc giá nhà Hà Nội**
 
 
 
-\## 1. Giới thiệu đề tài
+###### 1\. Giới thiệu đề tài
 
 
 
@@ -14,7 +14,7 @@ Hệ thống cung cấp giao diện web cho phép người dùng nhập thông t
 
 
 
-\## 2. Mục tiêu
+###### 2\. Mục tiêu
 
 
 
@@ -30,7 +30,7 @@ Hệ thống cung cấp giao diện web cho phép người dùng nhập thông t
 
 
 
-\## 3. Công nghệ sử dụng
+###### 3\. Công nghệ sử dụng
 
 
 
@@ -46,25 +46,18 @@ Hệ thống cung cấp giao diện web cho phép người dùng nhập thông t
 
 
 
-\## 4. Các phân khúc giá
+###### 4\. Các phân khúc giá
 
 
 
 Dự án sử dụng các ngưỡng phân loại theo quy ước:
 
-
-
-| Phân khúc | Khoảng giá |
-
-|---|---|
-
-| Bình dân | Không quá 2 tỷ đồng |
-
-| Trung cấp | Trên 2 đến 5 tỷ đồng |
-
-| Cao cấp | Trên 5 đến 10 tỷ đồng |
-
-| Hạng sang | Trên 10 tỷ đồng |
+|Phân khúc|Khoảng giá|
+|-|-|
+|Bình dân|Không quá 2 tỷ đồng|
+|Trung cấp|Trên 2 đến 5 tỷ đồng|
+|Cao cấp|Trên 5 đến 10 tỷ đồng|
+|Hạng sang|Trên 10 tỷ đồng|
 
 
 
@@ -72,7 +65,7 @@ Các ngưỡng trên phục vụ mục đích thực nghiệm của dự án, kh
 
 
 
-\## 5. Cấu trúc dự án
+###### 5\. Cấu trúc dự án
 
 
 
@@ -88,15 +81,11 @@ Các ngưỡng trên phục vụ mục đích thực nghiệm của dự án, kh
 
 
 
-\## 6. Cài đặt và chạy ứng dụng
+###### 6\. Cài đặt và chạy ứng dụng
 
 
 
-\### Yêu cầu
-
-
-
-Cài đặt Python tương thích với phiên bản Scikit-learn được sử dụng khi huấn luyện mô hình.
+Yêu cầu: cài đặt Python tương thích với phiên bản Scikit-learn được sử dụng khi huấn luyện mô hình.
 
 
 
@@ -164,7 +153,7 @@ Mở trình duyệt tại địa chỉ:
 
 
 
-\## 7. Quy trình hoạt động
+###### 7\. Quy trình hoạt động
 
 
 
@@ -184,7 +173,7 @@ Mở trình duyệt tại địa chỉ:
 
 
 
-\## 8. Hạn chế
+###### 8\. Hạn chế
 
 
 
@@ -192,7 +181,7 @@ Kết quả phân loại phụ thuộc vào chất lượng, phạm vi và cách
 
 
 
-\## 9. Repository
+###### 9\. Repository
 
 
 
